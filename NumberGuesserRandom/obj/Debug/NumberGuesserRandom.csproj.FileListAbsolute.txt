@@ -1,0 +1,6 @@
+c:\users\ikechukwu\documents\visual studio 2015\Projects\NumberGuesserRandom\NumberGuesserRandom\bin\Debug\NumberGuesserRandom.exe.config
+C:\Users\Ikechukwu\Documents\Visual Studio 2015\Projects\NumberGuesserRandom\NumberGuesserRandom\bin\Debug\NumberGuesserRandom.exe
+C:\Users\Ikechukwu\Documents\Visual Studio 2015\Projects\NumberGuesserRandom\NumberGuesserRandom\bin\Debug\NumberGuesserRandom.pdb
+C:\Users\Ikechukwu\Documents\Visual Studio 2015\Projects\NumberGuesserRandom\NumberGuesserRandom\obj\Debug\NumberGuesserRandom.csprojResolveAssemblyReference.cache
+C:\Users\Ikechukwu\Documents\Visual Studio 2015\Projects\NumberGuesserRandom\NumberGuesserRandom\obj\Debug\NumberGuesserRandom.exe
+C:\Users\Ikechukwu\Documents\Visual Studio 2015\Projects\NumberGuesserRandom\NumberGuesserRandom\obj\Debug\NumberGuesserRandom.pdb
