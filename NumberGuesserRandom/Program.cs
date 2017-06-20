@@ -39,7 +39,7 @@ namespace NumberGuesser
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                     // Console.ResetColor();
-                    Console.WriteLine("wrong number. Try again");
+                    Console.WriteLine("wrong number. Try again.");
                     Console.ResetColor();
                     Input = Console.ReadLine();
 
